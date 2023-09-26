@@ -1,0 +1,3 @@
+The majority of the dataset are from:
+https://www.kaggle.com/code/emmarex/plant-disease-detection-using-keras/data
+There are also some data (photos of leaves of different plants in different health conditions) taken by ourselves in our campus.
