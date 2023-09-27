@@ -1,3 +1,3 @@
 # Plant-Disease-Detection-App-for-Farmers
-A benchmark on NNDL models such as ResNet, Inception and Siamese Network, and chose the best one to convert to tflite and delopyed on Android App to make inference by invoking the cell phone camera.
-Completed by Xinyan Xie, He Xu and Ruyang Zhao.
+Built a model to detect the health conditions of plants by their leaves, and deployed the tflite model on Android and developed an App to make inferences in real-time via cell phone camera.
+Benchmarked on ResNet, Inception, Siamese Network with CNN as baseline, and achieve 95% confidence in ResNet.
